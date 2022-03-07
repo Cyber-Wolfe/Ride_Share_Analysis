@@ -1,3 +1,5 @@
+# Ride Share Analysis
+
 ## Analysis Overview
 The analysis was meant to demonstrate the differences in fare amounts between the types of areas (Urban, Suburban, Rural) that utilize the ride share service. We then compare and contrast our findings and determine what decisions can be made from this data.
 
@@ -9,6 +11,7 @@ From our table we can see the break down of KPIs that shape our results.  We und
 
 ![PyBer_fare_summary.png](https://github.com/Cyber-Wolfe/Ride_Share_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
+From the line chart above we can see the trend-line over the course of the months showing the rise and fall of fares for each area type, giving us an idea of how each area performs during this time and the amount of fare each generates at a given time.
 
 Understanding that short breakdown we just need a quick recap of how a ride share prices, the price is normally determined by the amount of drivers available and the distance they have to travel.  More drivers means people can pay less to go somewhere and shorter distances also mean less paid. Understanding those concepts make the data much more clear.  
 

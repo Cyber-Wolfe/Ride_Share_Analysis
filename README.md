@@ -24,15 +24,12 @@ Lastly we have suburban being the middle ground of those extremes, not far enoug
 ## Summary
 
 Some recommendations I would have to boost business in areas would be to:
-1. Lower fares in rural areas.
+1. Lower fares in rural areas:
+ For the sake of increasing the number of rides over the course of those couple months. A small decrease in the fares charged to the customer could incentivize more riders to     use the service thereby increasing use and fares gained in the longrun.
 
- For the sake of increasing the number of rides over the course of those couple months. A small decrease in the fares charged to the customer could incentivize more riders to   use the service thereby increasing use and fares gained in the longrun.
+2. Implementing a cap on drivers in urban areas:
+ The amount of drivers to riders creates a surplus that is underutilized, thus damaging the averages of our dataset. Reducing the amount of drivers by 10-20% on the road could     help our data show a more accurate depiction of the fares gained.
 
-2. Implementing a cap on drivers in urban areas.
-
- The amount of drivers to riders creates a surplus that is underutilized, thus damaging the averages of our dataset. Reducing the amount of drivers by 10-20% on the road could    help our data show a more accurate depiction of the fares gained.
-
-3. Giving drivers a reason to not drive certain days.
-
+3. Giving drivers a reason to not drive certain days:
  If a driver is on call for a certain amount of days maybe they get compensated instead of working. Could help reduce driver numbers and fix the averages of our dataset.
 

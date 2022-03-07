@@ -1,6 +1,6 @@
 # Ride Share Analysis
 
-## Analysis Overview
+## Overview
 The analysis was meant to demonstrate the differences in fare amounts between the types of areas (Urban, Suburban, Rural) that utilize the ride share service. We then compare and contrast our findings and determine what decisions can be made from this data.
 
 ## Data Results

@@ -3,9 +3,12 @@ The analysis was meant to demonstrate the differences in fare amounts between th
 
 ## Data Results
 ![Summary_Dataframe.PNG](https://github.com/Cyber-Wolfe/Ride_Share_Analysis/blob/main/analysis/Summary_Dataframe.PNG)
-![PyBer_fare_summary.png](https://github.com/Cyber-Wolfe/Ride_Share_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 From our table we can see the break down of KPIs that shape our results.  We understand that urban has the most rides, drivers, and fares accumulated than the other two areas combined even though urban does hold the least average fare per ride and per driver.  With urban as the most dense rural is the least dense and it holds the top spot of average fares per ride and driver with suburban holding second place in those two regards.
+
+![PyBer_fare_summary.png](https://github.com/Cyber-Wolfe/Ride_Share_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 
 Understanding that short breakdown we just need a quick recap of how a ride share prices, the price is normally determined by the amount of drivers available and the distance they have to travel.  More drivers means people can pay less to go somewhere and shorter distances also mean less paid. Understanding those concepts make the data much more clear.  
 
